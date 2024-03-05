@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...gabbitaumeshchandra@gmal.com
 - 😄 Pronouns: ... HE
-- ⚡ Fun fact: ...i like doing adventures and i love to travel on bikes
+- ⚡ Fun fact: ...I like doing adventures and I love to travel on motorcycle
 
 <!---
 gabbitaumeshchandra/gabbitaumeshchandra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
